@@ -1,4 +1,4 @@
-Churn Prediction Data Science Project
+Churn Prediction Project
 
 This project involves predicting customer churn using machine learning techniques, aimed at helping businesses understand and mitigate customer attrition.
 
